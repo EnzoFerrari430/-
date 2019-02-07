@@ -1,0 +1,8 @@
+#ifndef MYSTRING_H_INCLUDED
+#define MYSTRING_H_INCLUDED
+
+
+
+
+
+#endif // MYSTRING_H_INCLUDED

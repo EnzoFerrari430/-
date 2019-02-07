@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1539607190 source:d:\cc++\数据结构代码\队列\二叉树\queue.c
+	<stdio.h>
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+	"tnode.h"
+
+1539582522 d:\cc++\数据结构代码\队列\二叉树\tnode.h
+
+1539658352 source:d:\cc++\数据结构代码\队列\二叉树\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"tnode.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538641423 source:d:\cc++\数据结构代码\队列\队列应用凯撒加密\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+
